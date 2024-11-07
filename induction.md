@@ -1,3 +1,8 @@
+---
+title: Can ideas be plagiarised?
+layout: home
+---
+
 # Can ideas be plagiarised?
 
 Looking at the Da Vinci Code case, where Dan Brown was accused by two authors, Michael Baigent and Richard Leigh, of "\[appropriating] the architechture" of their work, The Holy Blood and the Holy Grail (1982). Both works were published by Random House, so they were the target of a lawsuit from Baigent and Leigh.
